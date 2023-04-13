@@ -1,0 +1,22 @@
+name;phone;email;room_no;total_rooms;booking/room;total_amount
+Sarah Johnson;(604) 555-1234;sarahjohnson@example.com;201;1;Single;199.99
+Brian Lee;(604) 555-5678;brianlee@example.com;202;2;Double;349.99
+Karen Smith;(604) 555-9101;karensmith@example.com;203;1;Single;199.99
+Thomas Wilson;(604) 555-2345;thomaswilson@example.com;204;2;Double;349.99
+Jessica Davis;(604) 555-6789;jessicadavis@example.com;205;1;Single;199.99
+Eric Brown;(604) 555-1111;ericbrown@example.com;206;2;Double;349.99
+Grace Chen;(604) 555-2222;gracechen@example.com;207;1;Single;199.99
+Ryan Kim;(604) 555-3333;ryankim@example.com;208;2;Double;349.99
+Olivia Li;(604) 555-4444;oliviali@example.com;209;1;Single;199.99
+Andrew Taylor;(604) 555-5555;andrewtaylor@example.com;210;2;Double;349.99
+Jennifer Kim;(604) 555-6666;jenniferkim@examplecom;211;1;Single;199.99
+David Wong;(604) 555-7777;davidwong@example.com;212;2;Double;349.99
+Emily Chen;(604) 555-8888;emilychen@example.com;213;1;Single;199.99
+Steven Liu;(604) 555-9999;stevenliu@example.com;214;2;Double;349.99
+Jessica Kim;(604) 555-1212;jessicakim@example.com;215;1;Single;199.99
+Michael Lee;(604) 555-3434;michaellee@example.com;216;2;Double;349.99
+Jennifer Wong;(604) 555-5656;jenniferwong@example.com;217;1;Single;199.99
+Kevin Chen;(604) 555-7878;kevinchen@example.com;218;2;Double;349.99
+Sophia Zhang;(604) 555-9898;sophiazhang@example.com;219;1;Single;199.99
+Adam Kim;(604) 555-1113;adamkim@example.com;220;2;Double;349.99
+Michelle Lee;(604) 555-2225;michellelee@example.com;221;1;Single;199.99
